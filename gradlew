@@ -1,1 +1,3 @@
-404: Not Found
+#!/bin/sh
+# Gradle wrapper script
+exec gradle "$@"
